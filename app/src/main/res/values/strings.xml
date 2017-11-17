@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text Message App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="title_get_send_sms">Receive SMS Messages</string>
+    <string name="message_get_send_sms">Text Message App needs the ability to receive SMS messages</string>
+    <string name="explanation_get_send_sms">We need this permission to allow the app to respond to the text messages received</string>
+
+
+</resources>
